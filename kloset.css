@@ -206,7 +206,7 @@ body{
 .home::before{
     content: "";
     position: absolute;
-    background:  linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('decor.jpg') no-repeat center center/cover;
+    background:  linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('r/decor.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
